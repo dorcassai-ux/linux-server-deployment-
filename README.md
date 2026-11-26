@@ -42,7 +42,9 @@ Built for the Codomax Digital internship, Module 02.
 ![curl test](screenshots/09-curl-test.png)
 
 ## Documentation
-Full write-up with screenshots: [docs/Linux_Server_Deployment.docx](docs/Linux_Server_Deployment.docx)
+Full Deployment Documentation with screenshots: [doc/Linux_Server_Deployment.docx](doc/Linux_Server_Deployment.docx)
+
+Full write-up with screenshots: [doc/Module 02 Linux, Networking & Cloud Infrastructure – Notes.pdf](doc/Module 02 Linux, Networking & Cloud Infrastructure.pdf – Notes.pdf)
 
 ## Note
 The same steps apply to an AWS EC2 instance, where a security group
