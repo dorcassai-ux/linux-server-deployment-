@@ -42,7 +42,7 @@ Built for the Codomax Digital internship, Module 02.
 ![curl test](screenshots/09-curl-test.png)
 
 ## Documentation
-Full Deployment Documentation with screenshots: [doc/Linux_Server_Deployment.docx](doc/Linux_Server_Deployment.docx)
+Full Deployment Documentation with screenshots: [doc/Linux_Server_Deployment.pdf](doc/Linux_Server_Deployment.pdf)
 
 
 ## Note
